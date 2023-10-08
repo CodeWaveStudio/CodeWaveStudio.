@@ -1,0 +1,41 @@
+.main{
+    background-color: rgb(255 213 241 / 39%);
+    width: 1200px;
+    margin-left: 10px;
+    margin-right: 0px;
+   margin-left: 250px;
+}
+.main-heading {
+text-align: center;
+flex-wrap: wrap;
+background-color: rgb(255 155 155 / 40%);
+text-decoration-color: brown;
+width:auto;
+border: 1px solid black;
+border-bottom: 10px solid rgb(255 0 166 / 47%);
+border-radius: 10px;
+
+}
+.main-heading h1{
+color: rgb(0, 0, 0);
+padding: 10px;
+text-shadow: 9px 6px rgb(255 155 155 / 40%);;
+font-size: 40px;
+font-weight: 600;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Intro-Page{
+   
+}
+.Intro-Page-heading{
+padding-left: 20px;
+padding-bottom: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font:caption;
+height: 20px;
+
+}
+.Instruc-page{
+    padding-right: 10px;
+}
